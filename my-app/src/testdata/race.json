@@ -1,0 +1,130 @@
+{
+  "result": [
+    {
+      "EventID": 32481197,
+      "MasterEventID": 1135218,
+      "EventName": "Race 6",
+      "EventTypeDesc": "Trots",
+      "MasterEventName": "Races",
+      "AdvertisedStartTime": "2018-11-27T00:49:00Z",
+      "RaceNumber": 6,
+      "EventType": {
+        "EventTypeID": 2,
+        "EventTypeDesc": "Trots",
+        "MasterEventTypeID": 1,
+        "Slug": "harness-racing"
+      },
+      "Venue": {
+        "Venue": "Northfield Park",
+        "StateCode": null,
+        "Slug": "northfield-park"
+      },
+      "IsMultiAllowed": true,
+      "Slug": "race-6",
+      "DateSlug": "20181127",
+      "RacingStreamAllowed": false,
+      "RacingReplayStreamAllowed": false
+    },
+    {
+      "EventID": 32536926,
+      "MasterEventID": 1136531,
+      "EventName": "Race 3 - Claiming",
+      "EventTypeDesc": "Thoroughbred",
+      "MasterEventName": "Races",
+      "AdvertisedStartTime": "2018-11-27T00:51:00Z",
+      "RaceNumber": 3,
+      "EventType": {
+        "EventTypeID": 1,
+        "EventTypeDesc": "Thoroughbred",
+        "MasterEventTypeID": 1,
+        "Slug": "horse-racing"
+      },
+      "Venue": {
+        "Venue": "Mountaineer Park",
+        "StateCode": null,
+        "Slug": "mountaineer-park"
+      },
+      "IsMultiAllowed": true,
+      "Slug": "race-3-claiming",
+      "DateSlug": "20181127",
+      "RacingStreamAllowed": false,
+      "RacingReplayStreamAllowed": false
+    },
+    {
+      "EventID": 32518385,
+      "MasterEventID": 1136188,
+      "EventName": "Oreti Beach Run",
+      "EventTypeDesc": "Greyhounds",
+      "MasterEventName": "Races",
+      "AdvertisedStartTime": "2018-11-27T00:52:00Z",
+      "RaceNumber": 7,
+      "EventType": {
+        "EventTypeID": 3,
+        "EventTypeDesc": "Greyhounds",
+        "MasterEventTypeID": 1,
+        "Slug": "greyhound-racing"
+      },
+      "Venue": {
+        "Venue": "Ascot Park Nz",
+        "StateCode": null,
+        "Slug": "ascot-park-nz"
+      },
+      "IsMultiAllowed": true,
+      "Slug": "oreti-beach-run",
+      "DateSlug": "20181127",
+      "RacingStreamAllowed": false,
+      "RacingReplayStreamAllowed": false
+    },
+    {
+      "EventID": 32553648,
+      "MasterEventID": 1137147,
+      "EventName": "Race 3",
+      "EventTypeDesc": "Greyhounds",
+      "MasterEventName": "Races",
+      "AdvertisedStartTime": "2018-11-27T00:53:00Z",
+      "RaceNumber": 3,
+      "EventType": {
+        "EventTypeID": 3,
+        "EventTypeDesc": "Greyhounds",
+        "MasterEventTypeID": 1,
+        "Slug": "greyhound-racing"
+      },
+      "Venue": {
+        "Venue": "Daytona Beach",
+        "StateCode": null,
+        "Slug": "daytona-beach"
+      },
+      "IsMultiAllowed": true,
+      "Slug": "race-3",
+      "DateSlug": "20181127",
+      "RacingStreamAllowed": false,
+      "RacingReplayStreamAllowed": false
+    },
+    {
+      "EventID": 32570478,
+      "MasterEventID": 1137732,
+      "EventName": "Mohawk Fillies & Mares Pace Ms",
+      "EventTypeDesc": "Trots",
+      "MasterEventName": "Races",
+      "AdvertisedStartTime": "2018-11-27T00:55:00Z",
+      "RaceNumber": 3,
+      "EventType": {
+        "EventTypeID": 2,
+        "EventTypeDesc": "Trots",
+        "MasterEventTypeID": 1,
+        "Slug": "harness-racing"
+      },
+      "Venue": {
+        "Venue": "Mohawk",
+        "StateCode": null,
+        "Slug": "mohawk"
+      },
+      "IsMultiAllowed": true,
+      "Slug": "mohawk-fillies-mares-pace-ms",
+      "DateSlug": "20181127",
+      "RacingStreamAllowed": false,
+      "RacingReplayStreamAllowed": false
+    }
+  ],
+  "success": true
+}
